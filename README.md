@@ -3,3 +3,7 @@
 
 1. Exploratory Data Analysis- Terrorism-(NORMAL TASK) (Dataset- https://drive.google.com/file/d/13Ww3baUla_xRhfUl5o48OgcS3JqzgIGf/view?usp=drive_link)
 2. Exploratory Data Analysis-Breast_Cancer_Prediction-(GLODEN TASK)(https://drive.google.com/file/d/1oI5mcMsWiWjC9iFEPl9XhLNZazCOFWuT/view?usp=sharing)
+
+3. Phase 2 Projects
+4. Email_Spam_Detection
+5. 
