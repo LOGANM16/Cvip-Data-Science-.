@@ -6,6 +6,7 @@
 
    <center><h2> Phase 2 Project</h2></center>
     1.Email_Spam_Detection(Normal Task)
+    
     2.Speech_Emotion_Recognition(Golden Task)
     Dataset-(https://www.kaggle.com/datasets/ejlok/cremad)
     
