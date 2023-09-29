@@ -5,5 +5,8 @@
 2. Exploratory Data Analysis-Breast_Cancer_Prediction-(GLODEN TASK)(https://drive.google.com/file/d/1oI5mcMsWiWjC9iFEPl9XhLNZazCOFWuT/view?usp=sharing)
 
    <center><h2> Phase 2 Project</h2></center>
-    Email_Spam_Detection
+    1.Email_Spam_Detection(Normal Task)
+    2.Speech_Emotion_Recognition(Golden Task)
+    Dataset-(https://www.kaggle.com/datasets/ejlok/cremad)
+    
  
